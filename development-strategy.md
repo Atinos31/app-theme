@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `name-of-project`
+## Name of project: AppTheme
 
 write a short description of your project:
 - who would want to use it?
@@ -29,14 +29,23 @@ __full user story description__
 ### Repo
 
 what branch(es) did you work on?
+index
+about
+services
+contact
+css
+flexbox
+font-awesome
 
 ### HTML
 
 what did you change in the HTML and why?
+worked on header, navigation,showcase section,info section;footer, services page, home page,about page and contact page
 
 ### CSS
 
 what did you change in the CSS and why?
+to style the site
 
 ## 2. ...
 
@@ -45,6 +54,7 @@ what did you change in the CSS and why?
 ...
 
 ## Finishing Touches
+
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
